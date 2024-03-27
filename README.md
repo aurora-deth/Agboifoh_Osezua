@@ -1,9 +1,8 @@
 # Hello, I'm AGBOIFOH OSEZUA
 <a href="https://www.linkedin.com/in/osezua-agboifoh-b1b539238/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+"Hello! I'm passionate about cybersecurity and dedicated to staying ahead of digital threats. With a knack for problem-solving and a commitment to continuous learning, I'm eager to contribute to safeguarding digital environments and protecting valuable assets.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
